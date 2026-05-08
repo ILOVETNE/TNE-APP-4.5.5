@@ -2264,7 +2264,7 @@
 "height":0.65,
 "layout":"background",
 "isScrollable":false,
-"showVolumeButton":false
+"showVolumeButton":true
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
