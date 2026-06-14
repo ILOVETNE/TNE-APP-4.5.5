@@ -2179,7 +2179,7 @@
 "about",
 "title-vmdliBhfAj",
 "delivery",
-"web-KaZLCGMCis"],
+"web-ikWvMhmIHn"],
 "subGeneralSetting":{
 "about":{
 "webUrl":"https://traditionalnortheast.com/about-us-for-app/"
@@ -2234,7 +2234,24 @@
 "buttonAlignment":"centerLeft",
 "verticalPadding":{
 "x":3,
-"y":0}}
+"y":0}
+},
+"web-ikWvMhmIHn":{
+"id":"web-12",
+"title":"Seller Registration",
+"icon":"tags_solid",
+"iconFontFamily":"CupertinoIcons",
+"webUrl":"https://ilovetne.github.io/seller-registration/",
+"enableDivider":false,
+"webViewMode":true,
+"requiredLogin":false,
+"enableForward":false,
+"enableBackward":true,
+"enableClose":true,
+"buttonAlignment":"centerLeft",
+"buttons":[],
+"bannerHeight":15.0,
+"useTabScreen":false}
 },
 "drawerIcon":{
 "icon":"list_dash",
@@ -2538,4 +2555,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-05-08T06:06:39.422100"}
+"Datetime":"2026-06-14T07:54:42.826603"}
